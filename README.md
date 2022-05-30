@@ -27,3 +27,19 @@ Pour terminer, pour accéder à une page du site Biblio-Drive, il faut se rendre
 <ul>
   <li>http://localhost/nom_dossier_dans_htdocs/nom_fichier</li>
 </ul>
+
+# L'utilisation des photos sur le site web
+Les photos suivantes :
+<ul>
+  <li>contes.jpeg</li>
+  <li>germinal.jpeg</li>
+  <li>mademoiselle_de_maupin.jpeg</li>
+  <li>miserable.jpeg</li>
+  <li>parole.jpeg</li>
+</ul>
+doivent être archivée dans un dossier dans Xampp (aller dans le dossier htdocs).
+
+# Mise à jour
+Le site peut à tout moment être modifiée et mis à jour afin d'améliorer le site.
+
+Note final du projet : 16,50 / 25 (sans compter les eventuelles mise à jour à venir).
