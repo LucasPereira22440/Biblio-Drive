@@ -1,3 +1,0 @@
-Objectif : 
-- Ne pas mettre le numéro du livre en session, il faut faire un lien ! Pour plus d'information voir le fichier book_presentation.php (Ligne 43) voir le 
-    commentaire de la ligne !
